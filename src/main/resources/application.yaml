@@ -7,8 +7,8 @@ spring:
       client:
         registration:
           google:
-            client-id: "966315057786-fokgnb6oa56qnk1sagi70mosb22hjrf6.apps.googleusercontent.com"
-            client-secret: { {"CHAVE" } }
+            client-id: <adicione aqui>
+            client-secret: <adicione aqui>
       resourceserver:
         jwt:
           issuer-uri: https://accounts.google.com
